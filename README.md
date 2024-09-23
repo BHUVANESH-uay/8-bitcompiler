@@ -64,3 +64,7 @@ let f = a | b;
 let g = a ^ b;
 PUSH c;
 POP d;
+
+
+This version of the `README.md` file includes all of the required information, including the project structure and sample input/output, making it a comprehensive guide for users of the 8-bit compiler project.
+
